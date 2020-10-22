@@ -1,2 +1,2 @@
 # pyvscpws1
-VSCP websocket 1 interface code  for Python
+VSCP websocket generation 1 interface code for Python
